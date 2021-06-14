@@ -1,1 +1,1 @@
-woker: 초심이.py
+woker: python bot.py
