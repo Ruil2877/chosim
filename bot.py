@@ -14,7 +14,7 @@ import random
 
 
 
-token = 'token'
+token = open("token", "r").readline()
 
 client = discord.Client()
 
